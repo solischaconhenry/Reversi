@@ -1,0 +1,16 @@
+.PlayLink
+{
+    
+    position: absolute;
+    left: 41%;
+    text-align: center;
+    margin: auto;
+}
+
+.navbar-collapse{
+    text-align: center;
+}
+
+#asd{
+    font-size: 12px;
+}
